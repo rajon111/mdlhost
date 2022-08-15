@@ -1,27 +1,23 @@
-# Mdlhost
+##   Mass Data Limited
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
+###    Company
+    We are a custom software company in Bangladesh. We started as a start-up software outsourcing company in 2016. We became a Bangladeshi company in 2017 and have been growing every year.
+    We find technical solutions for our clients. Typically this would mean we are building software products for them, but sometime we would be doing something completely different like researching business data or setting up their firewall.
 
-## Development server
+###    Who We Are
+    Mass Data was founded on June, 2016 to provides Web Development, Marketing , Sofware Solution , Domain and Web Hosting Solution. We will deliver high-quality products and support our customers beyond their expectations. This will improve their profitability, their businesses, and our relationships with them.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Our Mission
+    Our mission is simple. To provide trouble-free, customer-focused, reliable, and affordable solution. We simply want to continue to operate a profitable company that makes customers happy. A successful business needs to be committed to client solutions, innovation, creativity and a warm, caring attitude to all of our customers’ business needs. We don’t just provide 24×7 support. we really do listen and care.
 
-## Code scaffolding
+### What We Do
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+    We tailor incredible IT solutions for companies regardless the size of them. At Mass Data, our proficient team is promised to deliver cutting-edge innovations that meet the exact demands of our client and that too in a less turnaround time. With core adroitness and high level expertise, we integrate ourselves to notch complex solutions to the clients spread across the continents. Our commitment towards each client is unparalleled.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Live link(coming soon...)
+``` 
+https://massdataltd.com/
+```
+ SITE DEVELOPED BY @GOLAM_MOSTOFA_RAJON
+ ```
+ EMAIL: mostofarajon111@gmail.com

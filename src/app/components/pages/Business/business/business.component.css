@@ -1,0 +1,24 @@
+.outside-box-1 {
+
+    display: grid !important;
+    grid-template-columns: 1fr 2fr;
+    gap: 10px;
+
+}
+
+.outside-box-2 {
+
+    display: grid !important;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 2.5rem;
+
+}
+
+.inside-box-1 {
+    border: 2px solid gray;
+    padding: 20px;
+}
+
+.inside-box-1:hover {
+    transition: transform 500ms ease-in-out 25ms;
+}
